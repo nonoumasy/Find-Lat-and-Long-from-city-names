@@ -1,8 +1,8 @@
-Project Goals:
+# Project Goals:
 
 Extract Place Entities (Cities, Locations, etc) from any document(novel, news articles, etc) and plot them on a Map.
 
-User Flow:
+# User Flow:
 
 * Enter document(pdf, text file, doc, etc)
 * Extract Locations
